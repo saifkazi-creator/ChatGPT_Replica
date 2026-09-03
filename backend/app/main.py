@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-
+#This code is so cooooooool!!!!!!!!!!!!!!!!!!!!
 from app.core.exceptions import AppException, app_exception_handler
 from app.api import health, auth, conversations, chat, files
 
