@@ -1,0 +1,9 @@
+fastapi[standard]
+pydantic-settings
+python-dotenv
+python-multipart
+supabase
+google-generativeai
+pypdf
+tavily-python
+mem0ai
